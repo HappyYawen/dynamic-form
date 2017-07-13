@@ -1,4 +1,4 @@
-# infoissue
+# dynamic-form
 
 > A Vue.js project
 >该组件使用了iview框架，以及iview中form表单引用的组件async-validator对表单进行验证。
